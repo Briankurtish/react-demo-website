@@ -36,3 +36,12 @@ a {
   align-items: center;
   justify-content: center;
 }
+
+.btn.dark-btn {
+  background: #212ea0;
+  color: #fff;
+}
+
+.back-arrow {
+  margin-left: 10px;
+}

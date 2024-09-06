@@ -38,3 +38,27 @@
   width: 50%;
   padding: 20px;
 }
+
+/* Media Query */
+
+@media (max-width: 800px) {
+  .testimonials {
+    padding: 0 40px;
+  }
+
+  .next-btn,
+  .back-btn {
+    padding: 10px;
+    width: 35px;
+  }
+
+  .testimonials ul {
+    padding: 10px;
+  }
+}
+
+@media (max-width: 600px) {
+  .slider p {
+    font-size: 12px;
+  }
+}
